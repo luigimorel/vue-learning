@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lunasima&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+  font-family: 'Lunasima';
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
